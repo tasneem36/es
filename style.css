@@ -1,0 +1,29 @@
+.navbar-brand{
+
+    color:deeppink;
+    font-style: oblique;
+    font-weight: 600;
+    font-size: 30px;
+
+}
+.nav-link-active{
+    color:hotpink;
+
+
+}
+.nav-link{
+    color:hotpink;
+    font-weight:bolder;
+}
+.nav-item-dropdown{
+    color:hotpink;
+}
+
+.offcanvas-body{
+    color:hotpink;
+}
+
+.coco{
+
+    font-weight: bolder;
+}
